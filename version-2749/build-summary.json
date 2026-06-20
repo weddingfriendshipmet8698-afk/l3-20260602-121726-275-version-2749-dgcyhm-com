@@ -1,0 +1,10 @@
+{
+  "movie_count": 2000,
+  "category_count": 10,
+  "detail_pages": 2000,
+  "video_source_count": 20,
+  "site_title": "免费欧美视频-热门好看的视频大全-高清视频在线播放",
+  "baidu_script_included": true,
+  "cover_policy": "References top-level 1.jpg through 150.jpg in sequence; no image files generated.",
+  "hls_module": "assets/hls-dru42stk.js"
+}
